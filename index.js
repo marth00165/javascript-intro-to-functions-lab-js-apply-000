@@ -16,14 +16,14 @@ function logWhisper(string) {
   console.log(chicken);
 }
 
-function sayHiToGrandma1(string){
+function sayHiToGrandma(string){
   var icecream = string;
   if (icecream.toLowerCase()=== icecream) {
     return "I can't hear you!"
   }
-    
-}
-function sayHiToGrandma2(string){
+    }
+/*
+function sayHiToGrandma(string){
   var pancake = string;
   if (pancake.toUpperCase === pancake) {
     return "YES INDEED!"
@@ -33,6 +33,6 @@ function sayHiToGrandma(string){
   var potato = string;
   if(potato == "I love you, Grandma."){
     return "I love you, too."
-  }
+  }*/
 }
 
