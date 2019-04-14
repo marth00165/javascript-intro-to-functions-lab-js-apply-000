@@ -21,7 +21,7 @@ function sayHiToGrandma(string){
   if (icecream.toLowerCase()=== icecream) {
     return "I can't hear you!"
   }
-    }
+    
 /*
 function sayHiToGrandma(string){
   var pancake = string;
