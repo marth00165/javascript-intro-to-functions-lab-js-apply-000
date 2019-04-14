@@ -10,3 +10,9 @@ function logShout(string){
   console.log(spy);
   
 }
+
+function logWhisper(string) {
+  var chicken = (string).toLowerCase()
+  console.log(chicken);
+}
+
