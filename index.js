@@ -22,7 +22,7 @@ function sayHiToGrandma(string){
     return "I can't hear you!"
   }
     
-/*
+
 function sayHiToGrandma(string){
   var pancake = string;
   if (pancake.toUpperCase === pancake) {
@@ -33,6 +33,8 @@ function sayHiToGrandma(string){
   var potato = string;
   if(potato == "I love you, Grandma."){
     return "I love you, too."
-  }*/
+  }
+  
+}
 }
 
