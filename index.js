@@ -21,20 +21,10 @@ function sayHiToGrandma(string){
   if (icecream.toLowerCase()=== icecream) {
     return "I can't hear you!"
   }
+  else if (icecream.toUpperCase()=== icecream){
+    return ""
     
-
-function sayHiToGrandma(string){
-  var pancake = string;
-  if (pancake.toUpperCase === pancake) {
-    return "YES INDEED!"
   }
-}
-function sayHiToGrandma(string){
-  var potato = string;
-  if(potato == "I love you, Grandma."){
-    return "I love you, too."
-  }
-  
-}
+    
 }
 
