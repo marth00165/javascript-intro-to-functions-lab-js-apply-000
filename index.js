@@ -22,9 +22,12 @@ function sayHiToGrandma(string){
     return "I can't hear you!"
   }
   else if (icecream.toUpperCase()=== icecream){
-    return ""
-    
+    return "YES INDEED!"
   }
+  else if (icecream == "I love you, Grandma."){
+    return "I love you, too."
+  }
+    
     
 }
 
