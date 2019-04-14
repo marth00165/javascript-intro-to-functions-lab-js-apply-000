@@ -16,3 +16,8 @@ function logWhisper(string) {
   console.log(chicken);
 }
 
+function sayHiToGrandma(string){
+  
+  
+  
+}
